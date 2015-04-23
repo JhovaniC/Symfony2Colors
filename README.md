@@ -81,7 +81,7 @@ cd c:/Users/USERNAME/.WebIde60/config/colors
 
 # 2) Install the file
 ```bash
-git clone https://github.com/cordoval/Symfony2Colors.git .
+git clone git@github.com:JhovaniC/Symfony2Colors.git .
 ```
 
 # 3) Restart PHPStorm
